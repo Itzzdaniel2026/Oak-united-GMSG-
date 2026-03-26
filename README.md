@@ -205,7 +205,7 @@ button:hover {
 <script>
 const webhooks = {
     GPS: "https://discord.com/api/webhooks/1486002707071504494/ZpX2lIm9_lpahlUTRgVf6o80eV8fnNBOBTKJ8cjw1s_ms26jj-LGb0v0h__8Lp060LGR",
-    WBA: "https://discord.com/api/webhooks/1486002858565439629/5u1VUk6AFVFCKb8hnD-PUmO0hOTYxasXO0nE9pBss9UidLgysZ5X4AADsFzEL17dmDqL",
+    WBA: "https://discord.com/api/webhooks/1486463800252305501/ykDEYjeYHJu-7dy7YPzZqrR3Fam1bFS1WwJFteCeFcHcz45dUWO_XW0NNY6GCJ8vu5Ih",
     Oak: "https://discord.com/api/webhooks/1486002999510700034/OguNOSeKGffapjAlUeILrXcO5CerEah61Gnel0eXATjoYNKkz5WPc6tYejFFuyHccB7Q",
     MS: "https://discord.com/api/webhooks/1486467077442371594/0OIVc-dcVhVMVXfau_5u3Jixv9ID6WDu6V7FhwBs9crsd3A9H3r6BXyU1GDP7PbxJWmV"
 };
